@@ -5,3 +5,5 @@ hej hopp en andra commit
 hej en tredje rad
 
 hej ny rad som ny
+
+hej ny rad som ny andvändare RÄTT
